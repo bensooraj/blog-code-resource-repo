@@ -1,1 +1,1 @@
-### 
+Read the blog at [Go RPCs (Remote Procedure Calls)](https://bensooraj.com/go-rp-cs-remote-procedure-calls)
